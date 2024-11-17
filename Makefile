@@ -1,0 +1,2 @@
+format:
+	pipenv run black .
